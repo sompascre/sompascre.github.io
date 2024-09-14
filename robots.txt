@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://sompascre.github.io/sitemap.html.gz
+Sitemap: https://sompascre.github.io/app/sitemap.html.gz
+Sitemap: https://sompascre.github.io/assets/sitemap.html.gz
+Sitemap: https://sompascre.github.io/css/sitemap.html.gz
+Sitemap: https://sompascre.github.io/includes/sitemap.html.gz
+Sitemap: https://sompascre.github.io/item/sitemap.html.gz
+Sitemap: https://sompascre.github.io/src/sitemap.html.gz
